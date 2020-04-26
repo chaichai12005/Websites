@@ -1,0 +1,50 @@
+input[class = "form-control mr-sm-2"]:focus {
+  width:100%;
+}
+.container-sm{
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+}
+.wall_street{
+  position:absolute;
+  display: inline-block;
+}
+
+div[class = "search-wrapper"]{
+  background-image: url("/Users/chaichaitam/Downloads/Citi/web development/jorge-vasconez-buYlndcNnjM-unsplash.jpg");
+  background-position: 0px 85px;
+      -webkit-background-size: 100% 100%;
+      -moz-background-size: 100% 100%;
+      -o-background-size: 100% 100%;
+      background-size: 100% 100%;
+}
+img {
+    height: 0.01%;
+    width: 100%;
+    background-size: contain;
+  }
+
+  a:hover {
+    transform: scale(1.5);
+
+
+  }
+
+  h1 {
+    background-color: #3a3535;
+    height: 200%;
+    text-align: center;
+    font-size: 200%;
+    font-family: "Apple Chancery", cursive;
+    font-weight: lighter;
+    color: #30475e;
+  }
+
+  hr {
+    border-style: none;
+    height: 0.5px;
+    width: 3%;
+    border-top: 4px dashed;
+    border-color: #204051;
+  }
